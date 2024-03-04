@@ -16,7 +16,12 @@ print(sorted(lista_numeros))                                      # sorted() se 
 
 
 
+"""
+LA IMPRESION FINAL SERA:
 
+
+
+"""
 
 
 

@@ -18,7 +18,13 @@ print(invertir_cadena(cadena_ingresada))   # se llama a la función invertir_cad
 
 
 
+"""
+la impresion final sera:
 
+Ingrese una cadena de texto: hola
+aloh
+
+"""
 
 
 

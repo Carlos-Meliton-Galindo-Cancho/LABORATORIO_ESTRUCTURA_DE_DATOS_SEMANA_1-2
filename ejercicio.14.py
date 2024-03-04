@@ -14,3 +14,12 @@ pi_aproximado = 3.1416
 area = pi_aproximado * (radio ** 2)                                 # se calcula el área del círculo utilizando la fórmula del círculo y el resultado se guarda en la variable area
 
 print(f"El área del círculo con radio {int(radio)} es: {area}")        # se imprime el resultado de la operación
+
+
+
+"""
+LA IMPRESION FINAL SERA:
+
+
+
+"""

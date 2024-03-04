@@ -1,7 +1,7 @@
 """
 EJERCICIO 3   
 
-ÁREA DE UN TRIÁNGULOX:
+ÁREA DE UN TRIÁNGULO:
 
 Pide la base y la altura de un triángulo al usuario y calcula su área.
 

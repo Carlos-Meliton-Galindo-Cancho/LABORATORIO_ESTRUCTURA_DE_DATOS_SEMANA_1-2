@@ -19,3 +19,10 @@ for caracter in texto:                              # se inicia un bucle for que
 print(f"El número de vocales en '{texto}' es: {contador_vocales}")     #  se utiliza una f-string para formatear la cadena de salida
 
 
+
+"""
+LA IMPRESION FINAL SERA:
+
+El número de vocales en 'Puedes contar el numero' es: 9
+
+"""

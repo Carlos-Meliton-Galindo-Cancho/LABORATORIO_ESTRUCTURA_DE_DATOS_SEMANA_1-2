@@ -22,7 +22,14 @@ print(suma_numeros_pares(inicio, final))   # finalmente, se llama a la función 
 
 
 
+"""
+la impresion finla sera:
 
+donde iniciara: 10
+donde acabara: 100
+2530
+
+"""
 
 
 

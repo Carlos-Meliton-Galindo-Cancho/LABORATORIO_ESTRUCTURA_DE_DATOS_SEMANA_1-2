@@ -20,6 +20,10 @@ print(cuadrados(n))                # se llama a la función cuadrados() con n co
 
 
 
+"""
+la impresion final sera: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+"""
 
 
 

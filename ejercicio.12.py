@@ -14,3 +14,12 @@ if palabra == palabra[::-1]:                         # comparación para verific
     print(f"'{palabra}' es un palíndromo.")          # si la palabra ingresada es igual a su inversa se imprime "es un palíndromo"
 else:
     print(f"'{palabra}' no es un palíndromo.")      # si la palabra ingresada no es igual a su inversa se imprime "no es un palíndromo"
+
+
+
+"""
+LA IMPRESION FINAL SERA:
+
+
+
+"""

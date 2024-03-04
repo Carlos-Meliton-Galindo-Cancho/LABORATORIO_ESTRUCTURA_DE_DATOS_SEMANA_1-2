@@ -16,6 +16,13 @@ else:                            # si la condicion anterior no se cumple ( es de
 
 
 
+"""
+la impresion final sera:
+
+ingresa un numero: 9
+el numero es impar
+
+"""
 
 
 

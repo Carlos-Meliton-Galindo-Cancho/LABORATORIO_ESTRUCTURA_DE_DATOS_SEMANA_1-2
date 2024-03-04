@@ -8,6 +8,7 @@ Verifica si un número ingresado por el usuario es primo o no.
 """
 
 
+
 def es_primo(numero):           # se define una función llamada es_primo que toma un argumento numero
     
     if numero < 2:            # condicional para verificar si el numero es menor que dos, ya que los numeros primos son > 1
