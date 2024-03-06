@@ -23,7 +23,7 @@ print(suma_numeros_pares(inicio, final))   # finalmente, se llama a la función 
 
 
 """
-la impresion finla sera:
+LA IMPRESION FINAL SERA:
 
 donde iniciara: 10
 donde acabara: 100

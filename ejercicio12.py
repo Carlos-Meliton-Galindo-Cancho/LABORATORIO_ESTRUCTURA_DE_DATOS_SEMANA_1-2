@@ -20,6 +20,7 @@ else:
 """
 LA IMPRESION FINAL SERA:
 
-
+Ingresa una palabra: reconocer
+'reconocer' es un palíndromo.
 
 """

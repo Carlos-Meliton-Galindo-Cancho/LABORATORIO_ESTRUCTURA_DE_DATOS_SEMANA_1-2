@@ -19,7 +19,7 @@ print(factorial(5))            # aquí se llama a la función factorial con el a
 
 
 """
-la impresion final sera:
+LA IMPRESION FINAL SERA: 120
 
 
 """

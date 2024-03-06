@@ -16,7 +16,13 @@ print(f" el area del triangulo es: {area}")   # finalmente, se imprime el valor 
 
 
 
+"""
+LA IMPRESION FINAL SERA:
 
+ingresa un numero: 9
+el numero es impar
+
+"""
 
 
 

@@ -28,7 +28,13 @@ else:                                                    # si la función es_pri
 
 
 
+"""
+LA IMPRESION FINAL SERA:
 
+Ingrese un número para verificar si es primo: 9
+9 no es un número primo.
+
+"""
 
 
 

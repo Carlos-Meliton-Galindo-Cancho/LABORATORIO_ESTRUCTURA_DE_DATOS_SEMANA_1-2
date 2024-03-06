@@ -24,7 +24,16 @@ for i in range(n):                           # un bucle for para iterar sobre lo
 
 LA IMPRESION FINAL SERA:
 
-
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
 
 """
 

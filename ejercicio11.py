@@ -19,7 +19,8 @@ print(sorted(lista_numeros))                                      # sorted() se 
 """
 LA IMPRESION FINAL SERA:
 
-
+ingrese una lista de numeros separados por espacio: 1 6 3 9 12 45 78 65 3
+['1', '12', '3', '3', '45', '6', '65', '78', '9']
 
 """
 

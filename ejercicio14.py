@@ -20,6 +20,7 @@ print(f"El área del círculo con radio {int(radio)} es: {area}")        # se im
 """
 LA IMPRESION FINAL SERA:
 
-
+Ingresa el radio del círculo: 8
+El área del círculo con radio 8 es: 201.0624
 
 """

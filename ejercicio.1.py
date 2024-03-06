@@ -16,3 +16,17 @@ print("la suma de los dos numeros es: ", a+b)               # imprime el resulta
 print("la resta de los dos numeros es: ", a-b)
 print("la multiplicacion de los dos numeros es: ", a*b)
 print("la division de los dos numeros es: ", a/b)
+
+
+
+"""
+LA IMPRESION FINAL SERA:
+
+ingresa el primer numero: 3
+ingresa el segundo numero: 4
+la suma de los dos numeros es:  7
+la resta de los dos numeros es:  -1
+la multiplicacion de los dos numeros es:  12
+la division de los dos numeros es:  0.75
+
+"""
